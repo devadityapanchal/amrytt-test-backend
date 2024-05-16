@@ -137,6 +137,5 @@ log
 
 ecosystem.config.js
 
-public/images
 # server.cert
 # server.key
